@@ -1,0 +1,1 @@
+# sp-generator-from-navicat
