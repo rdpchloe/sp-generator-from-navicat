@@ -1,0 +1,14 @@
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\GenerateSPFromNavicatDDL.csprojAssemblyReference.cache
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\GenerateSPFromNavicatDDL.Form1.resources
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\GenerateSPFromNavicatDDL.Properties.Resources.resources
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\GenerateSPFromNavicatDDL.csproj.GenerateResource.cache
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\GenerateSPFromNavicatDDL.csproj.CoreCompileInputs.cache
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\bin\Debug\Generate SP From Navicat DDL.exe.config
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\bin\Debug\Generate SP From Navicat DDL.exe.manifest
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\bin\Debug\Generate SP From Navicat DDL.application
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\bin\Debug\Generate SP From Navicat DDL.exe
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\bin\Debug\Generate SP From Navicat DDL.pdb
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\Generate SP From Navicat DDL.exe.manifest
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\Generate SP From Navicat DDL.application
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\Generate SP From Navicat DDL.exe
+D:\_project\GenerateSPFromNavicatDDL\GenerateSPFromNavicatDDL\obj\Debug\Generate SP From Navicat DDL.pdb
